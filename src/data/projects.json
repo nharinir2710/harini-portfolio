@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Office 365 Automation | Tietronix ",
+    "imageSrc": "projects/project.png",
+    "description": ["Led the development and automation of employee data processing workflows by creating PowerShell scripts to calculate and convert hours worked for 1,000+ records, reducing manual effort by 90% and improving team productivity.",
+  "Directed cross-functional collaboration with HR, Finance, and IT teams to integrate automated processes, enhancing real-time data accessibility and improving interdepartmental alignment.",
+"Streamlined reporting systems by designing and implementing scripts that updated Excel spreadsheets with processed employee data, reducing reporting time by 70% and enabling faster decision-making.",
+"Enhanced  data accessibility by leveraging Microsoft Graph API to automate synchronization of employee data with SharePoint Online, improving team access and collaboration by 50%.",
+"Ensured data accuracy and operational efficiency by implementing robust validation processes, achieving 99% accuracy, and saving 20+ hours monthly in manual corrections and data entry.",
+"Delivered a scalable, user-centric solution capable of handling large datasets with zero downtime, directly enhancing operational efficiency and empowering teams with reliable tools. "],
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Hawks Transport App | University of Houston – Clear Lake",
+    "imageSrc": "projects/project.png",
+    "description": ["Designed and developed a real-time shuttle tracking mobile application using Swift and Xcode, enhancing campus transportation efficiency for over 1,000 students and staff.",
+  " Integrated Google Firebase for robust database management, ensuring 99.9% uptime, real-time data synchronization, and seamless access to live shuttle locations.",
+"Implemented GPS-based tracking to display accurate shuttle locations and estimated arrival times, improving user convenience and reducing wait times.",
+"Developed an intuitive UI/UX design that allowed users to view schedules, set favorite routes, and receive notifications for shuttle arrivals or delays.",
+"Leveraged Firebase Cloud Firestore to manage real-time data updates and user requests efficiently, minimizing network latency.",
+"Conducted rigorous testing with students and faculty, incorporating feedback to refine features and enhance overall app performance.",
+"Successfully improved campus mobility and accessibility, reducing transportation-related complaints and enhancing the student experience."],
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

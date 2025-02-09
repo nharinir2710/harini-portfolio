@@ -1,0 +1,50 @@
+[
+  {
+    "role": "Graduate Research Assistant",
+    "organisation": "University of Houston - Clear Lake",
+    "startDate": "May 2023",
+    "endDate": "Dec 2024",
+    "experiences": ["Managed Unix servers, networks, and databases (MS SQL/MySQL) to enhance performance, implementing LDAP authentication security for 500+ users. ", 
+    "Solved hardware/software issues for faculty, staff, and students while efficiently managing 1,000+ user accounts.",
+    "Developed and executed robust data backup protocols and real-time log monitoring to protect against cyber threats.",
+    "Conducted regular updates and patches to ensure system compliance and optimized performance. ",
+    "Improved the ABET accreditation website by integrating Java-based backend services with Hibernate and Spring Boot to optimize data fetching for better survey accuracy. ",
+    "Designed and deployed scalable RESTful APIs for efficient data synchronization. ",
+    "Built a dynamic front-end with ReactJS, enhancing usability and accessibility. ",
+    "Deployed cloud-native microservices on AWS with Docker and Kubernetes, automating CI/CD pipelines using Jenkins to reduce deployment time by 50%. ",
+    "Organized and led the annual STEM Challenge for 200+ participants, showcasing innovations and promoting technology engagement. "],
+    "imageSrc": "/assets/history/UHCL.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Tata Consultancy Services",
+    "startDate": "July 2021",
+    "endDate": "Dec 2022",
+    "experiences": ["Designed a ReactJS-based portal, reducing page load times by 35% and improving accessibility across devices. ", 
+    "Revamped workflows with Spring Boot and microservices, processing 20,000+ daily API requests.",
+  "Optimized MySQL schemas, reducing query execution times by 40% in high-traffic environments.",
+"Merged JWT authentication and encryption, strengthening data security by 70% and reducing unauthorized access incidents by 50%. ",
+"Transitioned legacy systems to cloud-native microservices on AWS, improving scalability by 45% and reducing downtime. ",
+"Configured billing workflows and incorporated third-party payment systems, automating processes and saving 60% of effort. ",
+"Implemented centralized monitoring and logging using the ELK Stack, reducing incident resolution time by 50%. ",
+"Led Agile ceremonies and collaborated with 5+ cross-functional teams, improving API and system integration efficiency by 40% and accelerating release cycles by 30%. ",
+"Utilized Kafka for real-time messaging and data processing, handling 1M+ events daily and improving data throughput by 60% for distributed systems. "
+],
+    "imageSrc": "/assets/history/TCS.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Lbits Technologies",
+    "startDate": "July 2020",
+    "endDate": "Jun 2021",
+    "experiences": [
+      "Engineered modular backend services with Java, Spring Boot, and Hibernate, integrating RESTful APIs and optimizing MySQL/JSON data handling, reducing response times by 30%. ",
+      "Modernized a dynamic and user-centric registration workflow using Java-based frameworks, improving onboarding efficiency by 50%. ",
+      "Migrated legacy systems to microservices using Spring Boot, deployed on AWS with Docker/Kubernetes, and automated CI/CD with Jenkins, cutting maintenance costs by 20%. ",
+      "Enhanced database performance by optimizing SQL queries and indexing in MySQL/MS SQL, improving data retrieval speed by 40%. ",
+      "Synthesized RESTful APIs with React.js, improving system reliability by 45% and reducing API response time by 30%. ",
+      "Used JSON and Postman for testing, ensuring 99% test coverage and enhancing user experience."
+    ],
+    "imageSrc": "/assets/history/LBITS.png"
+  }
+]

@@ -1,5 +1,5 @@
 import React from "react";
-
+import hariniImage from '/assets/Intro/Harini.png';
 import styles from "./Intro.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -31,7 +31,7 @@ export const Hero = () => {
         </a>*/}
       </div>
       <img
-         src="/assets/Intro/Harini.png" alt="Harini" 
+         src={hariniImage} alt="Harini" 
         className={styles.heroImg}
       />
       <div className={styles.topBlur} />

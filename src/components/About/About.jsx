@@ -1,5 +1,6 @@
 import React from "react";
-
+import UHCLIcon from '/assets/history/UHCL.png';
+import AUIcon from "/assets/history/AU.png";
 import styles from "./About.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -8,14 +9,9 @@ export const About = () => {
     <section className={styles.container} id="about">
       <h2 className={styles.title}>EDUCATION</h2>
       <div className={styles.content}>
-        {/*<img
-          src={getImageUrl("about/aboutImage.png")}
-          alt="Me sitting with a laptop"
-          className={styles.aboutImage}
-        />*/}
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src="/assets/history/UHCL.png" alt="UHCL icon" className={styles.Img}/>
+            <img src={UHCLIcon} alt="UHCL icon" className={styles.Img}/>
             <div className={styles.aboutItemText}>
               <h3 className={styles.indent}>University of Houston Clearlake</h3>
               <p className={styles.indent}>
@@ -24,7 +20,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-          <img src="/assets/history/AU.png" alt="AU icon" className={styles.Img}/>
+          <img src={AUIcon} alt="AU icon" className={styles.Img}/>
             <div className={styles.aboutItemText}>
             <h3 className={styles.indent}>Anurag Group of Institutions</h3>
             <p className={styles.indent}>
@@ -32,7 +28,6 @@ export const About = () => {
               </p>
             </div>
           </li>
-          
         </ul>
       </div>
     </section>

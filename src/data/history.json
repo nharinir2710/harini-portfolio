@@ -13,7 +13,8 @@
     "Built a dynamic front-end with ReactJS, enhancing usability and accessibility. ",
     "Deployed cloud-native microservices on AWS with Docker and Kubernetes, automating CI/CD pipelines using Jenkins to reduce deployment time by 50%. ",
     "Organized and led the annual STEM Challenge for 200+ participants, showcasing innovations and promoting technology engagement. "],
-    "imageSrc": "/assets/history/UHCL.png"
+    "imageSrc": "/harini-portfolio/assets/history/UHCL.png"
+
   },
   {
     "role": "Software Developer",
@@ -30,7 +31,7 @@
 "Led Agile ceremonies and collaborated with 5+ cross-functional teams, improving API and system integration efficiency by 40% and accelerating release cycles by 30%. ",
 "Utilized Kafka for real-time messaging and data processing, handling 1M+ events daily and improving data throughput by 60% for distributed systems. "
 ],
-    "imageSrc": "/assets/history/TCS.png"
+    "imageSrc": "/harini-portfolio/assets/history/TCS.png"
   },
   {
     "role": "Software Developer",
@@ -45,6 +46,6 @@
       "Synthesized RESTful APIs with React.js, improving system reliability by 45% and reducing API response time by 30%. ",
       "Used JSON and Postman for testing, ensuring 99% test coverage and enhancing user experience."
     ],
-    "imageSrc": "/assets/history/LBITS.png"
+    "imageSrc": "/harini-portfolio/assets/history/LBITS.png"
   }
 ]

@@ -1,5 +1,5 @@
 import React from "react";
-import hariniImage from '/harini-portfolio/assets/Intro/Harini.png';
+import hariniImage from '/assets/Intro/Harini.png';
 import styles from "./Intro.module.css";
 import { getImageUrl } from "../../utils";
 

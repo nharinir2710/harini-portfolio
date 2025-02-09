@@ -1,6 +1,6 @@
 import React from "react";
 import UHCLIcon from '/harini-portfolio/assets/history/UHCL.png';
-import AUIcon from "/harini-portfolio/assets/history/AU.png";
+import AUIcon from '/harini-portfolio/assets/history/AU.png';
 import styles from "./About.module.css";
 import { getImageUrl } from "../../utils";
 

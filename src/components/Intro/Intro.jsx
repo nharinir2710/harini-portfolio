@@ -31,7 +31,7 @@ export const Hero = () => {
         </a>*/}
       </div>
       <img  
-         src="./harini-portfolio/assets/Intro/Harini.png" alt="Harini" 
+         src= {`${import.meta.env.BASE_URL}assets/Intro/Harini.png`}  alt="Harini" 
         className={styles.heroImg}
       />
       <div className={styles.topBlur} />

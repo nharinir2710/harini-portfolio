@@ -30,8 +30,8 @@ export const Hero = () => {
           Contact Me
         </a>*/}
       </div>
-      <img
-         src={hariniImage} alt="Harini" 
+      <img  
+         src="./harini-portfolio/assets/Intro/Harini.png" alt="Harini" 
         className={styles.heroImg}
       />
       <div className={styles.topBlur} />
